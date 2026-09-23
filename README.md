@@ -114,4 +114,3 @@ Página web desarrollada como proyecto académico para representar una farmacia.
 </p>
 <br>
 
-<p align="center">Gracias por visitar mi perfil.</p>
