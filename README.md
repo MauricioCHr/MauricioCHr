@@ -1,6 +1,6 @@
 ![Banner](./banner.svg)
 
-<h1 align="center">Hola, soy Mauricio Chamorro </h1>
+<h1 align="center">Hola, soy Mauricio Chamorro 👋</h1>
 
 <p align="center">
   Estudiante de <b>Ingeniería de Sistemas</b> apasionado por todo lo que tiene que ver con tecnología.
@@ -22,6 +22,19 @@ Me interesa el **desarrollo web** y la **Inteligencia Artificial**. Actualmente 
 | **Carrera** | Ingeniería de Sistemas |
 | **Universidad** | Uniremington |
 | **Semestre actual** | 6.º semestre |
+
+---
+
+## 🤝 Habilidades
+
+- 👥 Trabajo en equipo
+- 🧩 Resolución de problemas
+
+---
+
+## 🎯 Intereses profesionales
+
+Me interesa la creación de páginas web para desenvolverme como programador **fullstack**.
 
 ---
 
@@ -68,3 +81,4 @@ Página web desarrollada como proyecto académico para representar una farmacia.
 
 ---
 
+<p align="center">⭐ Gracias por visitar mi perfil.</p>
