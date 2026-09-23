@@ -1,12 +1,12 @@
 ![Banner](./banner.svg)
 
-<h1 align="center">Hola, soy Mauricio Chamorro</h1>
+<h1 align="right">Hola, soy Mauricio Chamorro</h1>
 
-<p align="center">
-  Estudiante de <b>Ingeniería de Sistemas</b> apasionado por todo lo que tiene que ver con tecnología.Me gusta aprender nuevas tecnologias para fortalecer continuamente mis habilidades en programcion.
+<p align="right">
+ Estudiante de <b>Ingeniería de Sistemas</b> apasionado por todo lo que tiene que ver con tecnología. Me gusta aprender nuevas tecnologías para fortalecer continuamente mis habilidades en programación.
 </p>
 
-<p align="center">
+<p align="right">
   <img src="https://img.shields.io/badge/Enfoque-Desarrollo%20Web-38bdf8?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Interés-Inteligencia%20Artificial-0ea5e9?style=for-the-badge"/>
 </p>
@@ -43,17 +43,47 @@ Me interesa la creación de páginas web para desenvolverme como programador **f
 
 ## Proyectos
 
+<table>
+<tr>
+<td width="600">
+
 **SIMAC — Sistema de Matrículas Académicas**
+
 Sistema web para gestionar usuarios, asignaturas, matrículas, horarios e historial académico.
+
 `Python` `Flask` `MySQL` `HTML` `CSS`
 
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="600">
+
 **Digisim — Proyecto de Lógica Digital**
+
 Proyecto académico enfocado en lógica digital y diseño de circuitos, incluyendo contadores y displays de 7 segmentos.
+
 `Lógica digital` `Compuertas lógicas` `Circuitos digitales`
 
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="600">
+
 **Farmacia Salud Vida — Página Web**
+
 Página web desarrollada como proyecto académico para representar una farmacia.
+
 `HTML` `CSS`
+
+</td>
+</tr>
+</table>
 <br>
 
 ## Actualmente aprendiendo
