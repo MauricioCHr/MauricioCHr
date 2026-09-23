@@ -3,7 +3,7 @@
 <h1 align="left">Hola, soy Mauricio Chamorro</h1>
 
 <p align="left">
-Estudiante de <b>Ingeniería de Sistemas</b> apasionado por todo lo que tiene que ver con tecnología. Me gusta aprender nuevas tecnologías para fortalecer continuamente mis habilidades en programación.
+  Estudiante de <b>Ingeniería de Sistemas</b> apasionado por todo lo que tiene que ver con tecnología.
 </p>
 
 <p align="left">
@@ -27,6 +27,8 @@ Me interesa el **desarrollo web** y la **Inteligencia Artificial**. Actualmente 
 
 - Trabajo en equipo
 - Resolución de problemas
+- Pensamiento lógico
+- Capacidad de aprendizaje rápido
 <br>
 
 ## Intereses profesionales
