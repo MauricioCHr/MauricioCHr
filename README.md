@@ -3,7 +3,7 @@
 <h1 align="center">Hola, soy Mauricio Chamorro</h1>
 
 <p align="center">
-  Estudiante de <b>Ingeniería de Sistemas</b> apasionado por todo lo que tiene que ver con tecnología.
+  Estudiante de <b>Ingeniería de Sistemas</b> apasionado por todo lo que tiene que ver con tecnología.Me gusta aprender nuevas tecnologias para fortalecer continuamente mis habilidades en programcion.
 </p>
 
 <p align="center">
