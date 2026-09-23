@@ -2,9 +2,9 @@
 
 ![Banner](./banner.svg)
 
-# 👋 ¡Hola! Soy Mauricio Chamorro
+# Hola, Soy Mauricio Chamorro
 
-🎓 Estudiante de **Ingeniería de Sistemas** en Uniremington.
+Estudiante de **Ingeniería de Sistemas** en Uniremington.
 
 💻 Me interesa el **desarrollo web** y la **Inteligencia Artificial**. Actualmente estoy fortaleciendo mis conocimientos en programación y herramientas de desarrollo.
 
