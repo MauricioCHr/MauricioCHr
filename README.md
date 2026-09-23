@@ -3,7 +3,7 @@
 <h1 align="left">Hola, soy Mauricio Chamorro</h1>
 
 <p align="left">
-  Estudiante de <b>Ingeniería de Sistemas</b> apasionado por todo lo que tiene que ver con tecnología.
+  Estudiante de <b>Ingeniería de Sistemas</b> apasionado por todo lo que tiene que ver con tecnología. Me gusta aprender nuevas tecnologías para fortalecer continuamente mis habilidades en programación.
 </p>
 
 <p align="left">
@@ -94,7 +94,5 @@ Página web desarrollada como proyecto académico para representar una farmacia.
 
 <img src="https://skillicons.dev/icons?i=git,github" height="22"/> &nbsp;Git y GitHub
 
-Ingeniería de Software
 <br>
 
-<p align="center">Gracias por visitar mi perfil.</p>
