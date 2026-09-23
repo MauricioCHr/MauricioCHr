@@ -1,6 +1,6 @@
 ![Banner](./banner.svg)
 
-<h1 align="center">Hola, soy Mauricio Chamorro 👋</h1>
+<h1 align="center">Hola, soy Mauricio Chamorro</h1>
 
 <p align="center">
   Estudiante de <b>Ingeniería de Sistemas</b> apasionado por todo lo que tiene que ver con tecnología.
@@ -12,33 +12,29 @@
 </p>
 
 Me interesa el **desarrollo web** y la **Inteligencia Artificial**. Actualmente estoy fortaleciendo mis conocimientos en programación y herramientas de desarrollo.
+<br><br>
 
----
-
-## 🎓 Formación académica
+## Formación académica
 
 | | |
 |---|---|
 | **Carrera** | Ingeniería de Sistemas |
 | **Universidad** | Uniremington |
 | **Semestre actual** | 6.º semestre |
+<br>
 
----
+## Habilidades
 
-## 🤝 Habilidades
+- Trabajo en equipo
+- Resolución de problemas
+<br>
 
-- 👥 Trabajo en equipo
-- 🧩 Resolución de problemas
-
----
-
-## 🎯 Intereses profesionales
+## Intereses profesionales
 
 Me interesa la creación de páginas web para desenvolverme como programador **fullstack**.
+<br>
 
----
-
-## 🛠️ Tecnologías e intereses
+## Tecnologías
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -46,39 +42,29 @@ Me interesa la creación de páginas web para desenvolverme como programador **f
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
+<br>
 
----
+## Proyectos
 
-## 📂 Proyectos
-
-### 1. 🎓 SIMAC — Sistema de Matrículas Académicas
+**SIMAC — Sistema de Matrículas Académicas**
 Sistema web para gestionar usuarios, asignaturas, matrículas, horarios e historial académico.
-
 `Python` `Flask` `MySQL` `HTML` `CSS`
 
----
-
-### 2. 🔢 Digisim — Proyecto de Lógica Digital
+**Digisim — Proyecto de Lógica Digital**
 Proyecto académico enfocado en lógica digital y diseño de circuitos, incluyendo contadores y displays de 7 segmentos.
-
 `Lógica digital` `Compuertas lógicas` `Circuitos digitales`
 
----
-
-### 3. 💊 Farmacia Salud Vida — Página Web
+**Farmacia Salud Vida — Página Web**
 Página web desarrollada como proyecto académico para representar una farmacia.
-
 `HTML` `CSS`
+<br>
 
----
+## Actualmente aprendiendo
 
-## 📚 Actualmente aprendiendo
+- Programación con Python
+- Desarrollo web
+- Git y GitHub
+- Ingeniería de Software
+<br>
 
-- 🐍 Programación con Python
-- 🌐 Desarrollo web
-- 🐙 Git y GitHub
-- ⚙️ Ingeniería de Software
-
----
-
-<p align="center">⭐ Gracias por visitar mi perfil.</p>
+<p align="center">Gracias por visitar mi perfil.</p>
