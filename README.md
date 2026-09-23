@@ -1,4 +1,4 @@
-![Banner](./banner(1).svg)
+![Banner](./banner.svg)
 
 <h1 align="left">Hola, soy Mauricio Chamorro</h1>
 
