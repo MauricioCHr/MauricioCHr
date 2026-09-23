@@ -1,6 +1,6 @@
 ![Banner](./banner.svg)
 
-<h1 align="center">Hola, soy Mauricio Chamorro 👋</h1>
+<h1 align="center">Hola, soy Mauricio Chamorro </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Estudiante+de+Ingenier%C3%ADa+de+Sistemas;Apasionado+por+la+tecnolog%C3%ADa;Explorando+Desarrollo+Web+e+IA" alt="Typing SVG" />
