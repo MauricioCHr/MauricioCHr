@@ -97,6 +97,21 @@ Página web desarrollada como proyecto académico para representar una farmacia.
 <img src="https://skillicons.dev/icons?i=html,css" height="22"/> &nbsp;Desarrollo web
 
 <img src="https://skillicons.dev/icons?i=git,github" height="22"/> &nbsp;Git y GitHub
-
 <br>
 
+## Contacto
+
+<p>
+  <a href="mailto:Fredymauriciochamorroramirez@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://wa.me/573163405200">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
+  <a href="https://github.com/MauricioCHr">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+<br>
+
+<p align="center">Gracias por visitar mi perfil.</p>
