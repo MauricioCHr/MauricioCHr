@@ -1,6 +1,8 @@
-# 👋 ¡Hola! Soy Mauricio Chamorro
+
 
 ![Banner](./banner.svg)
+
+# 👋 ¡Hola! Soy Mauricio Chamorro
 
 🎓 Estudiante de **Ingeniería de Sistemas** en Uniremington.
 
