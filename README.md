@@ -88,11 +88,13 @@ Página web desarrollada como proyecto académico para representar una farmacia.
 
 ## Actualmente aprendiendo
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,html,css,git,github" />
-</p>
+<img src="https://skillicons.dev/icons?i=python" height="22"/> &nbsp;Programación con Python
 
-Además, sigo reforzando fundamentos de **Ingeniería de Software**.
+<img src="https://skillicons.dev/icons?i=html,css" height="22"/> &nbsp;Desarrollo web
+
+<img src="https://skillicons.dev/icons?i=git,github" height="22"/> &nbsp;Git y GitHub
+
+Ingeniería de Software
 <br>
 
 <p align="center">Gracias por visitar mi perfil.</p>
