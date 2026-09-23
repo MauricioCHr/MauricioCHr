@@ -6,7 +6,7 @@
 
 Estudiante de **Ingeniería de Sistemas** en Uniremington.
 
-💻 Me interesa el **desarrollo web** y la **Inteligencia Artificial**. Actualmente estoy fortaleciendo mis conocimientos en programación y herramientas de desarrollo.
+Me interesa el **desarrollo web** y la **Inteligencia Artificial**. Actualmente estoy fortaleciendo mis conocimientos en programación y herramientas de desarrollo.
 
 ## 🛠️ Tecnologías e intereses
 
