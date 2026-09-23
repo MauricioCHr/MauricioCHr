@@ -37,7 +37,7 @@ Me interesa la creación de páginas web para desenvolverme como programador **f
 ## Tecnologías
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,html,css,git,github" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,git,github,mysql" />
 </p>
 <br>
 
@@ -94,5 +94,7 @@ Página web desarrollada como proyecto académico para representar una farmacia.
 
 <img src="https://skillicons.dev/icons?i=git,github" height="22"/> &nbsp;Git y GitHub
 
+Ingeniería de Software
 <br>
 
+<p align="center">Gracias por visitar mi perfil.</p>
