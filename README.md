@@ -3,26 +3,15 @@
 <h1 align="center">Hola, soy Mauricio Chamorro </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Estudiante+de+Ingenier%C3%ADa+de+Sistemas;Apasionado+por+la+tecnolog%C3%ADa;Explorando+Desarrollo+Web+e+IA" alt="Typing SVG" />
+  Estudiante de <b>Ingeniería de Sistemas</b> apasionado por todo lo que tiene que ver con tecnología.
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Enfoque-Desarrollo%20Web-38bdf8?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Interés-Inteligencia%20Artificial-0ea5e9?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Ubicación-Ipiales%2C%20Nariño-64748b?style=for-the-badge"/>
 </p>
 
-Soy estudiante de **Ingeniería de Sistemas**, curioso por naturaleza y con ganas de aprender todo lo relacionado con tecnología: desde cómo funciona una página web hasta cómo una máquina puede "pensar". Disfruto entender el porqué detrás de las cosas, no solo el cómo, y eso es lo que me impulsa a seguir explorando el **desarrollo web** y la **Inteligencia Artificial**.
-
-Todavía estoy construyendo mi camino en programación, así que cada proyecto es una oportunidad para aprender algo nuevo más que para demostrar que ya lo domino todo.
-
----
-
-<p align="center">
-  <a href="https://github.com/MauricioCHr">
-    <img src="https://img.shields.io/badge/GitHub-MauricioCHr-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+Me interesa el **desarrollo web** y la **Inteligencia Artificial**. Actualmente estoy fortaleciendo mis conocimientos en programación y herramientas de desarrollo.
 
 ---
 
