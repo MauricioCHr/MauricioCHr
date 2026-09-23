@@ -33,7 +33,9 @@ Me interesa el **desarrollo web** y la **Inteligencia Artificial**. Actualmente 
 
 ## Intereses profesionales
 
-Me interesa la creación de páginas web para desenvolverme como programador **fullstack**.
+- Diseño y desarrollo de aplicaciones web funcionales y bien estructuradas, con miras a desenvolverme como programador **fullstack**
+- Automatización de tareas y procesos con Python
+- Buenas prácticas de programación y trabajo colaborativo con Git/GitHub
 <br>
 
 ## Tecnologías
